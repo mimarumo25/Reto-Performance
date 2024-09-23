@@ -15,16 +15,15 @@ Antes de empezar, asegúrate de tener instalados los siguientes componentes:
 Dependiendo de tu sistema operativo, sigue las instrucciones para instalar K6:
 
 - **Ubuntu/Debian**:
-  ```bash
+```bash
   sudo apt-get install k6
 ```
-### macOS
-
+- **macOS**:
 ```bash
 brew install k6
 ```
 
-### Windows
+- **WindowsS**:
 ```bash
 choco install k6
 ```
